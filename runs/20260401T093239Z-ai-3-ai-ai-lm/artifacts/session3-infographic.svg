@@ -1,0 +1,59 @@
+<svg width="1600" height="2200" viewBox="0 0 1600 2200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1600" height="2200" fill="#F6F1E8"/>
+  <circle cx="1310" cy="220" r="220" fill="#FF8F6B" fill-opacity="0.22"/>
+  <circle cx="260" cy="1940" r="260" fill="#3FB38C" fill-opacity="0.15"/>
+  <rect x="88" y="84" width="1424" height="2032" rx="44" fill="#FFFDF8" stroke="#1E2330" stroke-width="4"/>
+  <text x="140" y="205" fill="#1E2330" font-size="38" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-weight="700">AI 교육 수업 3회차</text>
+  <text x="140" y="285" fill="#1E2330" font-size="84" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-weight="800">AI 감각은</text>
+  <text x="140" y="375" fill="#1E2330" font-size="84" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-weight="800">기능보다 먼저,</text>
+  <text x="140" y="465" fill="#1E2330" font-size="84" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-weight="800">피드 훈련부터</text>
+  <text x="140" y="545" fill="#4B5563" font-size="32" font-family="Pretendard, Apple SD Gothic Neo, sans-serif">Threads를 활용해 AI 실전 사례를 넓고 빠르게 훑어보는 습관 만들기</text>
+
+  <rect x="140" y="630" width="1320" height="220" rx="30" fill="#1E2330"/>
+  <text x="190" y="710" fill="#FFFDF8" font-size="34" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-weight="700">왜 먼저 훑어봐야 하나</text>
+  <text x="190" y="786" fill="#FFFDF8" font-size="54" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-weight="800">모르면 하고 싶은 것도 잘 안 보인다</text>
+
+  <rect x="140" y="900" width="405" height="320" rx="28" fill="#FFE1D7" stroke="#1E2330" stroke-width="3"/>
+  <text x="180" y="980" fill="#1E2330" font-size="30" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-weight="700">1. 어디를 볼까</text>
+  <text x="180" y="1048" fill="#1E2330" font-size="54" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-weight="800">Threads</text>
+  <text x="180" y="1110" fill="#394150" font-size="28" font-family="Pretendard, Apple SD Gothic Neo, sans-serif">짧고 빠르게</text>
+  <text x="180" y="1152" fill="#394150" font-size="28" font-family="Pretendard, Apple SD Gothic Neo, sans-serif">실전 사례를 모으기 좋다</text>
+
+  <rect x="597" y="900" width="405" height="320" rx="28" fill="#DDF4EC" stroke="#1E2330" stroke-width="3"/>
+  <text x="637" y="980" fill="#1E2330" font-size="30" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-weight="700">2. 어떻게 볼까</text>
+  <text x="637" y="1048" fill="#1E2330" font-size="54" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-weight="800">넓게 훑기</text>
+  <text x="637" y="1110" fill="#394150" font-size="28" font-family="Pretendard, Apple SD Gothic Neo, sans-serif">깊게 파기 전에</text>
+  <text x="637" y="1152" fill="#394150" font-size="28" font-family="Pretendard, Apple SD Gothic Neo, sans-serif">가능성부터 확인한다</text>
+
+  <rect x="1054" y="900" width="406" height="320" rx="28" fill="#F9EDB7" stroke="#1E2330" stroke-width="3"/>
+  <text x="1094" y="980" fill="#1E2330" font-size="30" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-weight="700">3. 무엇을 남길까</text>
+  <text x="1094" y="1048" fill="#1E2330" font-size="54" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-weight="800">저장할 사례</text>
+  <text x="1094" y="1110" fill="#394150" font-size="28" font-family="Pretendard, Apple SD Gothic Neo, sans-serif">우리 팀 일에 붙일 만한</text>
+  <text x="1094" y="1152" fill="#394150" font-size="28" font-family="Pretendard, Apple SD Gothic Neo, sans-serif">구체적인 예시만 남긴다</text>
+
+  <text x="140" y="1365" fill="#1E2330" font-size="42" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-weight="800">피드를 훈련하는 4단계</text>
+
+  <line x1="220" y1="1490" x2="1380" y2="1490" stroke="#1E2330" stroke-width="6"/>
+  <circle cx="260" cy="1490" r="44" fill="#FF8F6B" stroke="#1E2330" stroke-width="4"/>
+  <circle cx="633" cy="1490" r="44" fill="#3FB38C" stroke="#1E2330" stroke-width="4"/>
+  <circle cx="1006" cy="1490" r="44" fill="#F0C94D" stroke="#1E2330" stroke-width="4"/>
+  <circle cx="1380" cy="1490" r="44" fill="#9CC1FF" stroke="#1E2330" stroke-width="4"/>
+
+  <text x="206" y="1504" fill="#1E2330" font-size="32" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-weight="800">1</text>
+  <text x="579" y="1504" fill="#1E2330" font-size="32" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-weight="800">2</text>
+  <text x="952" y="1504" fill="#1E2330" font-size="32" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-weight="800">3</text>
+  <text x="1325" y="1504" fill="#1E2330" font-size="32" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-weight="800">4</text>
+
+  <text x="175" y="1588" fill="#1E2330" font-size="30" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-weight="700">별표친 사람 팔로우</text>
+  <text x="548" y="1588" fill="#1E2330" font-size="30" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-weight="700">유용한 글만 좋아요</text>
+  <text x="923" y="1588" fill="#1E2330" font-size="30" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-weight="700">다시 볼 글 리포스트</text>
+  <text x="1298" y="1588" fill="#1E2330" font-size="30" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-weight="700">잡음엔 반응 금지</text>
+
+  <rect x="140" y="1705" width="1320" height="230" rx="30" fill="#FFF4C7" stroke="#1E2330" stroke-width="3"/>
+  <text x="185" y="1785" fill="#1E2330" font-size="34" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-weight="800">주의</text>
+  <text x="185" y="1855" fill="#1E2330" font-size="50" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-weight="800">쓸데없는 글에 좋아요를 누르면</text>
+  <text x="185" y="1918" fill="#1E2330" font-size="50" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-weight="800">시간도 피드도 같이 흐려진다</text>
+
+  <text x="140" y="2040" fill="#1E2330" font-size="42" font-family="Pretendard, Apple SD Gothic Neo, sans-serif" font-weight="800">이번 주 실행 미션</text>
+  <text x="140" y="2105" fill="#394150" font-size="30" font-family="Pretendard, Apple SD Gothic Neo, sans-serif">AI 계정 5명 팔로우 · 유용한 글 10개 반응 · 팀 공유 사례 3개 저장 · 1개는 바로 적용</text>
+</svg>
